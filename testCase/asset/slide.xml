@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="euc-kr"?>
+<slide>
+	<img url="resource/slide0.png" link="javascript:alert('slide0')" target="_self" >
+		<test>hi</test>
+		<test>hi</test>
+		<test>hi</test>
+	</img>
+	<img url="resource/slide1.png" link="javascript:alert('slide1')" target="_self" />
+	<img url="resource/slide2.png" link="javascript:alert('slide2')" target="_self" />
+	<img url="resource/slide3.png" link="javascript:alert('slide3')" target="_self" />
+</slide>
+
+
